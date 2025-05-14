@@ -43,3 +43,12 @@ open the browser to http://localhost:3000
 
 Don't use the 192.168.1.x address as it will not work
 ```
+
+You can also use the agno.com playground UI
+
+- Export the AGNO_API_KEY="YourKey"
+
+- Then Run the main.py agent script
+
+- Then you can access the agent running on
+  localhost in your machine
